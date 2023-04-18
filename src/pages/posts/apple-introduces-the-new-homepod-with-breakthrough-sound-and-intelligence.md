@@ -9,7 +9,7 @@ cover:
     square: 'https://www.apple.com.cn/newsroom/images/product/homepod/standard/Apple-HomePod-hero-230118_big.jpg.large_2x.jpg'
     alt: 'cover'
 tags: ["新闻稿", "Apple", "HomePod"] 
-theme: 'light'
+theme: 'dark'
 featured: true
 
 meta:
